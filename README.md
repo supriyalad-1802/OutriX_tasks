@@ -52,3 +52,18 @@ python -m streamlit run src/app.py
 Open in browser:
 
 http://localhost:8501
+
+📌 Key Learnings
+
+1. Practical NLP preprocessing
+2. TF-IDF feature extraction
+3. ML model training & saving
+4. Model deployment using Streamlit
+5. Handling real-world environment issues
+
+👩‍💻 Author
+Supriya Lad
+Final Year Computer Science & Engineering Student
+
+📄 License
+This project is created for educational and learning purposes.
