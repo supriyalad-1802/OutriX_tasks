@@ -1,3 +1,7 @@
+🚀 Outrix Tasks
+This repository contains projects completed as part of Outrix tasks, focused on applying Machine Learning and NLP concepts to real-world problems.
+
+✅ Completed Task
 📧 Spam Email Detection Using Machine Learning
 
 This project implements a Spam Email Detection System using Natural Language Processing (NLP) and Machine Learning. It classifies emails as Spam or Ham (Not Spam) and is deployed using a Streamlit web application.
@@ -67,3 +71,6 @@ Final Year Computer Science & Engineering Student
 
 📄 License
 This project is created for educational and learning purposes.
+
+📌 Note
+More Outrix tasks will be added to this repository.
