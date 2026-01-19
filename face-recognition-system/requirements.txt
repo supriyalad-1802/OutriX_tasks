@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+mtcnn
+numpy
+scikit-learn
+pickle-mixin

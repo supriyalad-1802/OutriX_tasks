@@ -1,0 +1,8 @@
+# Ignore venv and dataset in any subfolder
+**/venv/
+**/dataset/
+**/__pycache__/
+*.pyc
+
+# Ignore the .pkl if it's too big, but usually okay to keep
+# face_embeddings.pkl
